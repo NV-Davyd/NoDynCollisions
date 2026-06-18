@@ -6,7 +6,7 @@ This repository intentionally does not contain mod source code. KSL uses the
 GitHub releases from this repository to check versions and download the
 packaged `.ksm` release archive.
 
-Current public version: `v1.0.7`.
+Current public version: `v1.0.8`.
 
 ## Install/update
 
