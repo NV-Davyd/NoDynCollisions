@@ -1,6 +1,10 @@
 # NoDynCollisions
 
-Public KSL updater repository for NoDynCollisions.
+Turns off dynamic speed and direction collision resolving in CarX Drift Racing Online. Room rules and other collision settings keep working.
+
+- See which players in the room run the mod
+- A small badge marks AWD and 4WD players
+- `CHANGED AERO` flags mismatched aero, with details on an Incidents screen
 
 This repository intentionally does not contain mod source code. KSL uses the
 GitHub releases from this repository to check versions and download the
